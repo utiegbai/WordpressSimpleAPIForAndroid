@@ -1,0 +1,9 @@
+[11-Dec-2017 13:26:06 America/New_York] PHP Warning:  file_get_contents(http://www.calitunes.com/android_543ASBD/single_track.php?trackid=6478&amp;uid=1): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/calixcsx/public_html/classes/class.calitunes.php on line 227
+[11-Dec-2017 13:26:06 America/New_York] PHP Notice:  Trying to get property of non-object in /home/calixcsx/public_html/classes/class.calitunes.php on line 229
+[11-Dec-2017 13:29:05 America/New_York] PHP Warning:  file_get_contents(http://www.calitunes.com/android_543ASBD/single_track.php?trackid=6478&amp;uid=1): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/calixcsx/public_html/classes/class.calitunes.php on line 227
+[11-Dec-2017 13:29:05 America/New_York] PHP Notice:  Trying to get property of non-object in /home/calixcsx/public_html/classes/class.calitunes.php on line 229
+[11-Dec-2017 13:29:49 America/New_York] PHP Warning:  file_get_contents(http://www.calitunes.com/android_543ASBD/single_track.php?trackid=6478&amp;uid=1): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/calixcsx/public_html/classes/class.calitunes.php on line 227
+[11-Dec-2017 13:29:49 America/New_York] PHP Notice:  Trying to get property of non-object in /home/calixcsx/public_html/classes/class.calitunes.php on line 229
